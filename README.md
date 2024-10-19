@@ -32,6 +32,7 @@ T
 Input value of V: 250
 Input value of A: 50
 The value of T is 0.805
+```
 
 ## Requirements
 1. Python 3.x
